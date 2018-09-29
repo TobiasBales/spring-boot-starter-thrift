@@ -5,4 +5,4 @@ include 'examples:simple-client'
 include 'examples:test-protocol'
 
 project(':autoconfigure').name = 'spring-thrift-autoconfigure'
-project(':starter').name = 'spring-thrift-starter'
+project(':starter').name = 'spring-boot-starter-thrift'
