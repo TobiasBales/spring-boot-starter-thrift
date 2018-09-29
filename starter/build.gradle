@@ -25,6 +25,6 @@ bintray {
     publish = true
     pkg {
         repo = 'maven'
-        name = 'spring-thrift-starter'
+        name = 'spring-boot-starter-thrift'
     }
 }
